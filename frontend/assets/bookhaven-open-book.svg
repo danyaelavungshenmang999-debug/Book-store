@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" role="img" aria-label="BookHaven open book">
+  <rect width="64" height="64" rx="14" fill="#0F5132"/>
+  <path d="M32 49V20c-6-5-13-7-21-5v27c8-2 15 0 21 7Z" fill="#FAF9F6" stroke="#FAF9F6" stroke-width="2" stroke-linejoin="round"/>
+  <path d="M32 49V20c6-5 13-7 21-5v27c-8-2-15 0-21 7Z" fill="#F3F1EC" stroke="#FAF9F6" stroke-width="2" stroke-linejoin="round"/>
+  <path d="M32 20v29" fill="none" stroke="#0F5132" stroke-width="2"/>
+  <path d="M16 23c5-1 9 0 13 3M16 29c5-1 9 0 13 3M35 26c4-3 8-4 13-3M35 32c4-3 8-4 13-3" fill="none" stroke="#0F5132" stroke-width="1.5" stroke-linecap="round" opacity="0.55"/>
+</svg>

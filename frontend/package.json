@@ -1,0 +1,7 @@
+{
+  "name": "bookhaven-frontend",
+  "private": true,
+  "scripts": {
+    "dev": "cd .. && npm run dev"
+  }
+}

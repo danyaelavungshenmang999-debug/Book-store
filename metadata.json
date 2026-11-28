@@ -1,0 +1,6 @@
+{
+  "name": "BookHaven",
+  "description": "Curated online bookstore for Myanmar readers featuring KBZPay, Wave Money, Cash on Delivery, atomic inventory checkout, and admin payment verification.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
